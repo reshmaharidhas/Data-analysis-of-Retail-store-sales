@@ -13,15 +13,21 @@
 ## Kaggle Notebook📓
 https://www.kaggle.com/code/reshmaharidhas/data-cleaning-eda-analysis-of-retail-store
 
-## Visualizations
-
-
 ## Tech stack💻
 - Pandas
 - Seaborn
 - Matplotlib
 - Python
 - Numpy
+
+## Visualizations💻
+![](plots/correlation_heatmap_of_transaction_variables.png)
+![](plots/pairwise_relationship_between_variables.png)
+![](plots/distribution_of_price_per_unit.png)
+![](plots/trend_of_total_amount_spent_by_customers_in_2022.png)
+![](plots/usage_of_cash_as_payment_method_based_on_day_of_purchase_total_amount_spent_and_year_of_purchase.png)
+![](plots/distribution_of_the_quantity_of_air_fryers_purchased_by_year.png)
+![](plots/distribution_of_the_quantity_of_beanbags_purchased_by_year_of_purchase_and_location.png)
 
 ## License💻
 MIT
